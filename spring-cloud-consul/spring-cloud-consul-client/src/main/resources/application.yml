@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: consul-client
+  cloud:
+    consul:
+      host: 192.168.252.121
+      port: 8500
+      discovery:
+        healthCheckPath: /
+        healthCheckInterval: 5s
