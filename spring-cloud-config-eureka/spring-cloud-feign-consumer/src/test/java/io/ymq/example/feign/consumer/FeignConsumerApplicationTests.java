@@ -1,4 +1,4 @@
-package io.ymq.example.feign.consumer;
+package com.hks.example.feign.consumer;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

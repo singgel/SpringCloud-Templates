@@ -1,4 +1,4 @@
-package io.ymq.example.ribbon.consumer.hystrix;
+package com.hks.example.ribbon.consumer.hystrix;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

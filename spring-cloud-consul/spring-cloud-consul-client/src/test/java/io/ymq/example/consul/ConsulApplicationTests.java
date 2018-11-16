@@ -1,4 +1,4 @@
-package io.ymq.example.consul;
+package com.hks.example.consul;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

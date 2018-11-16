@@ -1,4 +1,4 @@
-package io.ymq.example.feign.consumer.hystrix;
+package com.hks.example.feign.consumer.hystrix;
 
 import feign.hystrix.FallbackFactory;
 import org.springframework.stereotype.Component;

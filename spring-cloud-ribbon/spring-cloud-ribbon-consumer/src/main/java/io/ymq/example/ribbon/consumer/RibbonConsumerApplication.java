@@ -1,4 +1,4 @@
-package io.ymq.example.ribbon.consumer;
+package com.hks.example.ribbon.consumer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

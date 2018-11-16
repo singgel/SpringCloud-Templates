@@ -1,4 +1,4 @@
-package io.ymq.example.config.client;
+package com.hks.example.config.client;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.SpringApplication;

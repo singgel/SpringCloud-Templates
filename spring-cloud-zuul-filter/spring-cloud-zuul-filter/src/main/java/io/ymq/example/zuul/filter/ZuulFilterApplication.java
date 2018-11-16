@@ -1,4 +1,4 @@
-package io.ymq.example.zuul.filter;
+package com.hks.example.zuul.filter;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

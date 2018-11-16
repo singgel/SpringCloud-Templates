@@ -1,4 +1,4 @@
-package io.ymq.example.eureka.provider;
+package com.hks.example.eureka.provider;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.SpringApplication;

@@ -1,4 +1,4 @@
-package io.ymq.example.ribbon.consumer;
+package com.hks.example.ribbon.consumer;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

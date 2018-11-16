@@ -1,4 +1,4 @@
-package io.ymq.example.zuul;
+package com.hks.example.zuul;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

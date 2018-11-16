@@ -1,4 +1,4 @@
-package io.ymq.example.config.server;
+package com.hks.example.config.server;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

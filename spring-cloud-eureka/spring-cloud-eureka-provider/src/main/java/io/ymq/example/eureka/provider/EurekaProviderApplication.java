@@ -1,4 +1,4 @@
-package io.ymq.example.eureka.provider;
+package com.hks.example.eureka.provider;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

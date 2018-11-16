@@ -1,4 +1,4 @@
-package io.ymq.example.feign.consumer;
+package com.hks.example.feign.consumer;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

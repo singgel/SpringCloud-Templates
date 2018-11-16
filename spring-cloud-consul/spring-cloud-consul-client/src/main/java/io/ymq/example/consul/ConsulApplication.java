@@ -1,4 +1,4 @@
-package io.ymq.example.consul;
+package com.hks.example.consul;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

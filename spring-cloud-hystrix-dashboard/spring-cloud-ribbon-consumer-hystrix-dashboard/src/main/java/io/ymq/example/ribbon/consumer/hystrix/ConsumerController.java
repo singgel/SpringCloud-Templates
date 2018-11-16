@@ -1,4 +1,4 @@
-package io.ymq.example.ribbon.consumer.hystrix;
+package com.hks.example.ribbon.consumer.hystrix;
 
 import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 import org.springframework.beans.factory.annotation.Autowired;
