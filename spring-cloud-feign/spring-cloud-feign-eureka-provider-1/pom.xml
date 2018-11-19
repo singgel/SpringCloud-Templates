@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.hks.example</groupId>
-	<artifactId>spring-cloud-eureka-provider-1</artifactId>
+	<artifactId>spring-cloud-feign-eureka-provider-1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>spring-cloud-eureka-provider-1</name>
+	<name>spring-cloud-feign-eureka-provider-1</name>
 	<description>Eureka provider1 Demo project for Spring Boot</description>
 
 	<parent>
