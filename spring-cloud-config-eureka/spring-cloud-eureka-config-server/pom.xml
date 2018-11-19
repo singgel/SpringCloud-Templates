@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.hks.example</groupId>
-    <artifactId>spring-cloud-config-server</artifactId>
+    <artifactId>spring-cloud-eureka-config-server</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>spring-cloud-config-server</name>
+    <name>spring-cloud-eureka-config-server</name>
     <description>Config Server Demo project for Spring Boot</description>
 
     <parent>
