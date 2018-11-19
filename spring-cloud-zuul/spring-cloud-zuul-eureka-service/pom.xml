@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.hks.example</groupId>
-	<artifactId>spring-cloud-eureka-service</artifactId>
+	<artifactId>spring-cloud-zuul-eureka-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>spring-cloud-eureka-server</name>
+	<name>spring-cloud-zuul-eureka-server</name>
 	<description>Eureka Service Demo project for Spring Boot</description>
 
 	<parent>

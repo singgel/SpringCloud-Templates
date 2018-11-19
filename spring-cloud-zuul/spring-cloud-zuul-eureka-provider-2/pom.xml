@@ -4,12 +4,12 @@
     <modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.hks.example</groupId>
-	<artifactId>spring-cloud-eureka-provider-1</artifactId>
+	<artifactId>spring-cloud-zuul-eureka-provider-2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>spring-cloud-eureka-provider-1</name>
-	<description>Eureka provider1 Demo project for Spring Boot</description>
+	<name>spring-cloud-zuul-eureka-provider-2</name>
+	<description>Eureka provider2 Demo project for Spring Boot</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -25,20 +25,20 @@
 		<spring-cloud.version>Edgware.RELEASE</spring-cloud.version>
 	</properties>
 
-	<dependencies>
+    <dependencies>
 
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-eureka</artifactId>
         </dependency>
 
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-test</artifactId>
-			<scope>test</scope>
-		</dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+            <scope>test</scope>
+        </dependency>
 
-	</dependencies>
+    </dependencies>
 
 	<dependencyManagement>
 		<dependencies>
