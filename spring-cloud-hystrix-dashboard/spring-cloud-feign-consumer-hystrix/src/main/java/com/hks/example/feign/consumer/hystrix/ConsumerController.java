@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * 描述:调用提供者的 `home` 方法
  *
- * @author yanpenglei
+ * @author hekuangsheng
  * @create 2017-12-06 15:26
  **/
 @RestController

@@ -9,7 +9,7 @@ import org.springframework.web.client.RestTemplate;
 /**
  * 描述:调用提供者的 `home` 方法
  *
- * @author yanpenglei
+ * @author hekuangsheng
  * @create 2017-12-05 18:53
  **/
 @RestController

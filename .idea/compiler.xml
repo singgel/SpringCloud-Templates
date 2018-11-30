@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-cloud-config-client" />
+        <module name="spring-cloud-config-server" />
+        <module name="spring-cloud-config-server (1)" />
+        <module name="spring-cloud-config-server (2)" />
+        <module name="spring-cloud-consul-client" />
+        <module name="spring-cloud-eureka-config-server" />
+        <module name="spring-cloud-eureka-provider" />
+        <module name="spring-cloud-eureka-provider-1 (1)" />
+        <module name="spring-cloud-eureka-provider-2 (1)" />
+        <module name="spring-cloud-eureka-provider-3 (1)" />
+        <module name="spring-cloud-eureka-service (1)" />
+        <module name="spring-cloud-feign-consumer (1)" />
+        <module name="spring-cloud-feign-consumer-hystrix" />
+        <module name="spring-cloud-ribbon-consumer" />
+        <module name="spring-cloud-ribbon-consumer-hystrix" />
+        <module name="spring-cloud-ribbon-consumer-hystrix-dashboard" />
+        <module name="spring-cloud-zuul-filter" />
+        <module name="spring-cloud-zuul-service" />
+      </profile>
+      <profile name="Annotation profile for spring-cloud-bus-config-server" enabled="true">
+        <sourceOutputDir name="../spring-cloud-config-server/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../spring-cloud-config-server/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-cloud-bus-config-server" />
+      </profile>
+      <profile name="Annotation profile for spring-cloud-bus-eureka-provider-1" enabled="true">
+        <sourceOutputDir name="../spring-cloud-bus-eureka-provider/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../spring-cloud-bus-eureka-provider/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-cloud-bus-eureka-provider-1" />
+      </profile>
+      <profile name="Annotation profile for spring-cloud-bus-eureka-provider-3" enabled="true">
+        <sourceOutputDir name="../spring-cloud-eureka-provider-3/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../spring-cloud-eureka-provider-3/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-cloud-bus-eureka-provider-3" />
+      </profile>
+      <profile name="Annotation profile for spring-cloud-bus-feign-consumer" enabled="true">
+        <sourceOutputDir name="../spring-cloud-feign-consumer/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../spring-cloud-feign-consumer/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-cloud-bus-feign-consumer" />
+      </profile>
+      <profile name="Annotation profile for spring-cloud-bus-eureka-server" enabled="true">
+        <sourceOutputDir name="../spring-cloud-eureka-service/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../spring-cloud-eureka-service/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-cloud-bus-eureka-service" />
+      </profile>
+      <profile name="Annotation profile for spring-cloud-bus-eureka-provider-2" enabled="true">
+        <sourceOutputDir name="../spring-cloud-eureka-provider-2/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../spring-cloud-eureka-provider-2/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-cloud-bus-eureka-provider-2" />
+      </profile>
+      <profile name="Annotation profile for spring-cloud-eureka-provider-1 (6)" enabled="true">
+        <sourceOutputDir name="../../spring-cloud-feign/spring-cloud-eureka-provider-1/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../spring-cloud-feign/spring-cloud-eureka-provider-1/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-cloud-eureka-provider-1 (6)" />
+      </profile>
+      <profile name="Annotation profile for spring-cloud-eureka-provider-1" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-cloud-config-server (3)" />
+        <module name="spring-cloud-eureka-provider-1 (2)" />
+        <module name="spring-cloud-eureka-provider-1 (3)" />
+        <module name="spring-cloud-eureka-provider-1 (4)" />
+        <module name="spring-cloud-eureka-provider-1 (5)" />
+        <module name="spring-cloud-eureka-provider-1 (7)" />
+        <module name="spring-cloud-eureka-provider-2 (2)" />
+        <module name="spring-cloud-eureka-provider-2 (3)" />
+        <module name="spring-cloud-eureka-provider-2 (4)" />
+        <module name="spring-cloud-eureka-provider-2 (5)" />
+        <module name="spring-cloud-eureka-provider-2 (6)" />
+        <module name="spring-cloud-eureka-provider-2 (7)" />
+        <module name="spring-cloud-eureka-provider-3 (2)" />
+        <module name="spring-cloud-eureka-provider-3 (3)" />
+        <module name="spring-cloud-eureka-provider-3 (4)" />
+        <module name="spring-cloud-eureka-provider-3 (5)" />
+        <module name="spring-cloud-eureka-provider-3 (6)" />
+        <module name="spring-cloud-eureka-provider-3 (7)" />
+        <module name="spring-cloud-eureka-service (2)" />
+        <module name="spring-cloud-eureka-service (3)" />
+        <module name="spring-cloud-eureka-service (4)" />
+        <module name="spring-cloud-eureka-service (5)" />
+        <module name="spring-cloud-eureka-service (6)" />
+        <module name="spring-cloud-eureka-service (7)" />
+        <module name="spring-cloud-eureka-service (8)" />
+        <module name="spring-cloud-feign-consumer (2)" />
+        <module name="spring-cloud-feign-consumer (3)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-cloud-bus-config-server" target="1.8" />
+      <module name="spring-cloud-bus-eureka-provider-1" target="1.8" />
+      <module name="spring-cloud-bus-eureka-provider-2" target="1.8" />
+      <module name="spring-cloud-bus-eureka-provider-3" target="1.8" />
+      <module name="spring-cloud-bus-eureka-service" target="1.8" />
+      <module name="spring-cloud-bus-feign-consumer" target="1.8" />
+      <module name="spring-cloud-config-client" target="1.8" />
+      <module name="spring-cloud-config-server" target="1.8" />
+      <module name="spring-cloud-config-server (1)" target="1.8" />
+      <module name="spring-cloud-config-server (2)" target="1.8" />
+      <module name="spring-cloud-config-server (3)" target="1.8" />
+      <module name="spring-cloud-consul-client" target="1.8" />
+      <module name="spring-cloud-eureka-config-server" target="1.8" />
+      <module name="spring-cloud-eureka-provider" target="1.8" />
+      <module name="spring-cloud-eureka-provider-1" target="1.8" />
+      <module name="spring-cloud-eureka-provider-1 (1)" target="1.8" />
+      <module name="spring-cloud-eureka-provider-1 (2)" target="1.8" />
+      <module name="spring-cloud-eureka-provider-1 (3)" target="1.8" />
+      <module name="spring-cloud-eureka-provider-1 (4)" target="1.8" />
+      <module name="spring-cloud-eureka-provider-1 (5)" target="1.8" />
+      <module name="spring-cloud-eureka-provider-1 (6)" target="1.8" />
+      <module name="spring-cloud-eureka-provider-1 (7)" target="1.8" />
+      <module name="spring-cloud-eureka-provider-2" target="1.8" />
+      <module name="spring-cloud-eureka-provider-2 (1)" target="1.8" />
+      <module name="spring-cloud-eureka-provider-2 (2)" target="1.8" />
+      <module name="spring-cloud-eureka-provider-2 (3)" target="1.8" />
+      <module name="spring-cloud-eureka-provider-2 (4)" target="1.8" />
+      <module name="spring-cloud-eureka-provider-2 (5)" target="1.8" />
+      <module name="spring-cloud-eureka-provider-2 (6)" target="1.8" />
+      <module name="spring-cloud-eureka-provider-2 (7)" target="1.8" />
+      <module name="spring-cloud-eureka-provider-3" target="1.8" />
+      <module name="spring-cloud-eureka-provider-3 (1)" target="1.8" />
+      <module name="spring-cloud-eureka-provider-3 (2)" target="1.8" />
+      <module name="spring-cloud-eureka-provider-3 (3)" target="1.8" />
+      <module name="spring-cloud-eureka-provider-3 (4)" target="1.8" />
+      <module name="spring-cloud-eureka-provider-3 (5)" target="1.8" />
+      <module name="spring-cloud-eureka-provider-3 (6)" target="1.8" />
+      <module name="spring-cloud-eureka-provider-3 (7)" target="1.8" />
+      <module name="spring-cloud-eureka-service" target="1.8" />
+      <module name="spring-cloud-eureka-service (1)" target="1.8" />
+      <module name="spring-cloud-eureka-service (2)" target="1.8" />
+      <module name="spring-cloud-eureka-service (3)" target="1.8" />
+      <module name="spring-cloud-eureka-service (4)" target="1.8" />
+      <module name="spring-cloud-eureka-service (5)" target="1.8" />
+      <module name="spring-cloud-eureka-service (6)" target="1.8" />
+      <module name="spring-cloud-eureka-service (7)" target="1.8" />
+      <module name="spring-cloud-eureka-service (8)" target="1.8" />
+      <module name="spring-cloud-eureka-service-center" target="1.8" />
+      <module name="spring-cloud-feign-consumer" target="1.8" />
+      <module name="spring-cloud-feign-consumer (1)" target="1.8" />
+      <module name="spring-cloud-feign-consumer (2)" target="1.8" />
+      <module name="spring-cloud-feign-consumer (3)" target="1.8" />
+      <module name="spring-cloud-feign-consumer-hystrix" target="1.8" />
+      <module name="spring-cloud-feign-eureka-provider-1" target="1.8" />
+      <module name="spring-cloud-feign-eureka-provider-2" target="1.8" />
+      <module name="spring-cloud-feign-eureka-provider-3" target="1.8" />
+      <module name="spring-cloud-feign-eureka-service" target="1.8" />
+      <module name="spring-cloud-feign-feign-consumer" target="1.8" />
+      <module name="spring-cloud-filter-eureka-provider-1" target="1.8" />
+      <module name="spring-cloud-filter-eureka-provider-2" target="1.8" />
+      <module name="spring-cloud-filter-eureka-provider-3" target="1.8" />
+      <module name="spring-cloud-filter-eureka-service" target="1.8" />
+      <module name="spring-cloud-hystrix-eureka-provider-1" target="1.8" />
+      <module name="spring-cloud-hystrix-eureka-provider-2" target="1.8" />
+      <module name="spring-cloud-hystrix-eureka-provider-3" target="1.8" />
+      <module name="spring-cloud-hystrix-eureka-service" target="1.8" />
+      <module name="spring-cloud-refresh-config-server" target="1.8" />
+      <module name="spring-cloud-refresh-eureka-provider-1" target="1.8" />
+      <module name="spring-cloud-refresh-eureka-provider-2" target="1.8" />
+      <module name="spring-cloud-refresh-eureka-provider-3" target="1.8" />
+      <module name="spring-cloud-refresh-eureka-service" target="1.8" />
+      <module name="spring-cloud-refresh-feign-consumer" target="1.8" />
+      <module name="spring-cloud-ribbon-consumer" target="1.8" />
+      <module name="spring-cloud-ribbon-consumer-hystrix" target="1.8" />
+      <module name="spring-cloud-ribbon-consumer-hystrix-dashboard" target="1.8" />
+      <module name="spring-cloud-ribbon-eureka-provider-1" target="1.8" />
+      <module name="spring-cloud-ribbon-eureka-provider-2" target="1.8" />
+      <module name="spring-cloud-ribbon-eureka-provider-3" target="1.8" />
+      <module name="spring-cloud-ribbon-eureka-service" target="1.8" />
+      <module name="spring-cloud-zuul-eureka-provider-1" target="1.8" />
+      <module name="spring-cloud-zuul-eureka-provider-2" target="1.8" />
+      <module name="spring-cloud-zuul-eureka-provider-3" target="1.8" />
+      <module name="spring-cloud-zuul-eureka-service" target="1.8" />
+      <module name="spring-cloud-zuul-filter" target="1.8" />
+      <module name="spring-cloud-zuul-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

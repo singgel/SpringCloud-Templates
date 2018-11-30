@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringCloud-Templates.iml" filepath="$PROJECT_DIR$/.idea/SpringCloud-Templates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-bus-rabbitMQ/spring-cloud-bus-config-server/spring-cloud-bus-config-server.iml" filepath="$PROJECT_DIR$/spring-cloud-config-bus-rabbitMQ/spring-cloud-bus-config-server/spring-cloud-bus-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-bus-rabbitMQ/spring-cloud-bus-eureka-provider-1/spring-cloud-bus-eureka-provider-1.iml" filepath="$PROJECT_DIR$/spring-cloud-config-bus-rabbitMQ/spring-cloud-bus-eureka-provider-1/spring-cloud-bus-eureka-provider-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-bus-rabbitMQ/spring-cloud-bus-eureka-provider-2/spring-cloud-bus-eureka-provider-2.iml" filepath="$PROJECT_DIR$/spring-cloud-config-bus-rabbitMQ/spring-cloud-bus-eureka-provider-2/spring-cloud-bus-eureka-provider-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-bus-rabbitMQ/spring-cloud-bus-eureka-provider-3/spring-cloud-bus-eureka-provider-3.iml" filepath="$PROJECT_DIR$/spring-cloud-config-bus-rabbitMQ/spring-cloud-bus-eureka-provider-3/spring-cloud-bus-eureka-provider-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-bus-rabbitMQ/spring-cloud-bus-eureka-service/spring-cloud-bus-eureka-service.iml" filepath="$PROJECT_DIR$/spring-cloud-config-bus-rabbitMQ/spring-cloud-bus-eureka-service/spring-cloud-bus-eureka-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-bus-rabbitMQ/spring-cloud-bus-feign-consumer/spring-cloud-bus-feign-consumer.iml" filepath="$PROJECT_DIR$/spring-cloud-config-bus-rabbitMQ/spring-cloud-bus-feign-consumer/spring-cloud-bus-feign-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config/spring-cloud-config-client/spring-cloud-config-client.iml" filepath="$PROJECT_DIR$/spring-cloud-config/spring-cloud-config-client/spring-cloud-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config/spring-cloud-config-server/spring-cloud-config-server.iml" filepath="$PROJECT_DIR$/spring-cloud-config/spring-cloud-config-server/spring-cloud-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-consul/spring-cloud-consul-client/spring-cloud-consul-client.iml" filepath="$PROJECT_DIR$/spring-cloud-consul/spring-cloud-consul-client/spring-cloud-consul-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-eureka/spring-cloud-eureka-config-server/spring-cloud-eureka-config-server.iml" filepath="$PROJECT_DIR$/spring-cloud-config-eureka/spring-cloud-eureka-config-server/spring-cloud-eureka-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-provider/spring-cloud-eureka-provider.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-provider/spring-cloud-eureka-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-hystrix-dashboard/spring-cloud-feign-consumer-hystrix/spring-cloud-feign-consumer-hystrix.iml" filepath="$PROJECT_DIR$/spring-cloud-hystrix-dashboard/spring-cloud-feign-consumer-hystrix/spring-cloud-feign-consumer-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer/spring-cloud-ribbon-consumer.iml" filepath="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer/spring-cloud-ribbon-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-hystrix-dashboard/spring-cloud-ribbon-consumer-hystrix/spring-cloud-ribbon-consumer-hystrix.iml" filepath="$PROJECT_DIR$/spring-cloud-hystrix-dashboard/spring-cloud-ribbon-consumer-hystrix/spring-cloud-ribbon-consumer-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-hystrix-dashboard/spring-cloud-ribbon-consumer-hystrix-dashboard/spring-cloud-ribbon-consumer-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/spring-cloud-hystrix-dashboard/spring-cloud-ribbon-consumer-hystrix-dashboard/spring-cloud-ribbon-consumer-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-zuul-filter/spring-cloud-zuul-filter/spring-cloud-zuul-filter.iml" filepath="$PROJECT_DIR$/spring-cloud-zuul-filter/spring-cloud-zuul-filter/spring-cloud-zuul-filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul-service/spring-cloud-zuul-service.iml" filepath="$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul-service/spring-cloud-zuul-service.iml" />
+    </modules>
+  </component>
+</project>

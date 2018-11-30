@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/spring-cloud-config/spring-cloud-config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config/spring-cloud-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-bus-rabbitMQ/spring-cloud-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-bus-rabbitMQ/spring-cloud-eureka-provider-1/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-bus-rabbitMQ/spring-cloud-eureka-provider-2/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-bus-rabbitMQ/spring-cloud-eureka-provider-3/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-bus-rabbitMQ/spring-cloud-eureka-service/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-bus-rabbitMQ/spring-cloud-feign-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-eureka/spring-cloud-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-eureka/spring-cloud-eureka-provider-1/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-eureka/spring-cloud-eureka-provider-2/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-eureka/spring-cloud-eureka-provider-3/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-eureka/spring-cloud-eureka-service/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-eureka/spring-cloud-feign-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-eureka-refresh/spring-cloud-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-eureka-refresh/spring-cloud-eureka-provider-1/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-eureka-refresh/spring-cloud-eureka-provider-2/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-eureka-refresh/spring-cloud-eureka-provider-3/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-eureka-refresh/spring-cloud-eureka-service/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-eureka-refresh/spring-cloud-feign-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-consul/spring-cloud-consul-client/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-service/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-eureka-provider-1/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-eureka-provider-2/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-eureka-provider-3/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-eureka-service/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-hystrix-dashboard/spring-cloud-eureka-provider-1/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-hystrix-dashboard/spring-cloud-eureka-provider-2/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-hystrix-dashboard/spring-cloud-eureka-provider-3/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-hystrix-dashboard/spring-cloud-eureka-service/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-hystrix-dashboard/spring-cloud-feign-consumer-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-hystrix-dashboard/spring-cloud-ribbon-consumer-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-hystrix-dashboard/spring-cloud-ribbon-consumer-hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-eureka-provider-1/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-eureka-provider-2/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-eureka-provider-3/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-eureka-service/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-eureka-provider-1/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-eureka-provider-2/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-eureka-provider-3/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-eureka-service/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul-service/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-zuul-filter/spring-cloud-eureka-provider-1/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-zuul-filter/spring-cloud-eureka-provider-2/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-zuul-filter/spring-cloud-eureka-provider-3/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-zuul-filter/spring-cloud-eureka-service/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-zuul-filter/spring-cloud-zuul-filter/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

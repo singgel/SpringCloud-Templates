@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-bus-rabbitMQ/spring-cloud-bus-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-bus-rabbitMQ/spring-cloud-bus-eureka-provider-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-bus-rabbitMQ/spring-cloud-bus-eureka-provider-2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-bus-rabbitMQ/spring-cloud-bus-eureka-provider-3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-bus-rabbitMQ/spring-cloud-bus-eureka-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-bus-rabbitMQ/spring-cloud-bus-feign-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-eureka-refresh/spring-cloud-refresh-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-eureka-refresh/spring-cloud-refresh-eureka-provider-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-eureka-refresh/spring-cloud-refresh-eureka-provider-2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-eureka-refresh/spring-cloud-refresh-eureka-provider-3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-eureka-refresh/spring-cloud-refresh-eureka-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-eureka-refresh/spring-cloud-refresh-feign-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-eureka/spring-cloud-eureka-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-eureka/spring-cloud-eureka-provider-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-eureka/spring-cloud-eureka-provider-2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-eureka/spring-cloud-eureka-provider-3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-eureka/spring-cloud-eureka-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-eureka/spring-cloud-feign-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config/spring-cloud-config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config/spring-cloud-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-consul/spring-cloud-consul-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-service-center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-eureka-provider-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-eureka-provider-2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-eureka-provider-3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-eureka-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-feign-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-hystrix-dashboard/spring-cloud-feign-consumer-hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-hystrix-dashboard/spring-cloud-hystrix-eureka-provider-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-hystrix-dashboard/spring-cloud-hystrix-eureka-provider-2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-hystrix-dashboard/spring-cloud-hystrix-eureka-provider-3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-hystrix-dashboard/spring-cloud-hystrix-eureka-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-hystrix-dashboard/spring-cloud-ribbon-consumer-hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-hystrix-dashboard/spring-cloud-ribbon-consumer-hystrix-dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-eureka-provider-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-eureka-provider-2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-eureka-provider-3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-eureka-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zuul-filter/spring-cloud-filter-eureka-provider-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zuul-filter/spring-cloud-filter-eureka-provider-2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zuul-filter/spring-cloud-filter-eureka-provider-3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zuul-filter/spring-cloud-filter-eureka-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zuul-filter/spring-cloud-zuul-filter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul-eureka-provider-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul-eureka-provider-2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul-eureka-provider-3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul-eureka-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul-service" charset="UTF-8" />
+  </component>
+</project>
