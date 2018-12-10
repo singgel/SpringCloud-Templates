@@ -17,11 +17,39 @@
         <module name="spring-cloud-eureka-provider-2 (1)" />
         <module name="spring-cloud-eureka-provider-3 (1)" />
         <module name="spring-cloud-eureka-service (1)" />
+        <module name="spring-cloud-eureka-service-center" />
         <module name="spring-cloud-feign-consumer (1)" />
         <module name="spring-cloud-feign-consumer-hystrix" />
+        <module name="spring-cloud-feign-eureka-provider-1" />
+        <module name="spring-cloud-feign-eureka-provider-2" />
+        <module name="spring-cloud-feign-eureka-provider-3" />
+        <module name="spring-cloud-feign-eureka-service" />
+        <module name="spring-cloud-feign-feign-consumer" />
+        <module name="spring-cloud-filter-eureka-provider-1" />
+        <module name="spring-cloud-filter-eureka-provider-2" />
+        <module name="spring-cloud-filter-eureka-provider-3" />
+        <module name="spring-cloud-filter-eureka-service" />
+        <module name="spring-cloud-hystrix-eureka-provider-1" />
+        <module name="spring-cloud-hystrix-eureka-provider-2" />
+        <module name="spring-cloud-hystrix-eureka-provider-3" />
+        <module name="spring-cloud-hystrix-eureka-service" />
+        <module name="spring-cloud-refresh-config-server" />
+        <module name="spring-cloud-refresh-eureka-provider-1" />
+        <module name="spring-cloud-refresh-eureka-provider-2" />
+        <module name="spring-cloud-refresh-eureka-provider-3" />
+        <module name="spring-cloud-refresh-eureka-service" />
+        <module name="spring-cloud-refresh-feign-consumer" />
         <module name="spring-cloud-ribbon-consumer" />
         <module name="spring-cloud-ribbon-consumer-hystrix" />
         <module name="spring-cloud-ribbon-consumer-hystrix-dashboard" />
+        <module name="spring-cloud-ribbon-eureka-provider-1" />
+        <module name="spring-cloud-ribbon-eureka-provider-2" />
+        <module name="spring-cloud-ribbon-eureka-provider-3" />
+        <module name="spring-cloud-ribbon-eureka-service" />
+        <module name="spring-cloud-zuul-eureka-provider-1" />
+        <module name="spring-cloud-zuul-eureka-provider-2" />
+        <module name="spring-cloud-zuul-eureka-provider-3" />
+        <module name="spring-cloud-zuul-eureka-service" />
         <module name="spring-cloud-zuul-filter" />
         <module name="spring-cloud-zuul-service" />
       </profile>
@@ -67,7 +95,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring-cloud-eureka-provider-1 (6)" />
       </profile>
-      <profile name="Annotation profile for spring-cloud-eureka-provider-1" enabled="true">
+      <profile name="Annotation profile for spring-cloud-hystrix-eureka-provider-3" enabled="true">
         <sourceOutputDir name="../../../target/generated-sources/annotations" />
         <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
