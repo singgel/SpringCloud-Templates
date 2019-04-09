@@ -2,7 +2,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
-		<groupId>pl.piomin</groupId>
+		<groupId>com.hks</groupId>
 		<artifactId>spring-cloud-sleuth-zipkin-elk</artifactId>
 		<version>1.0-SNAPSHOT</version>
 	</parent>
@@ -49,7 +49,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
-					<mainClass>pl.piomin.microservices.account.AccountApplication</mainClass>
+					<mainClass>com.hks.account.AccountApplication</mainClass>
 					<addResources>true</addResources>
 				</configuration>
 				<executions>
