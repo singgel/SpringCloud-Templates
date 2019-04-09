@@ -12,8 +12,8 @@
     </modules>
 
     <packaging>pom</packaging>
-    <name>spring-cloud-eureka</name>
-    <description>spring-cloud-eureka project for Spring Cloud</description>
+    <name>spring-cloud-consul</name>
+    <description>spring-cloud-consul project for Spring Cloud</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
