@@ -6,11 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="account-service" />
+        <module name="customer-service" />
+        <module name="discovery-service" />
+        <module name="gateway-service" />
         <module name="spring-cloud-config-client" />
         <module name="spring-cloud-config-server" />
         <module name="spring-cloud-config-server (1)" />
         <module name="spring-cloud-config-server (2)" />
         <module name="spring-cloud-consul-client" />
+        <module name="spring-cloud-eureka" />
         <module name="spring-cloud-eureka-config-server" />
         <module name="spring-cloud-eureka-provider" />
         <module name="spring-cloud-eureka-provider-1 (1)" />
@@ -33,6 +38,7 @@
         <module name="spring-cloud-hystrix-eureka-provider-2" />
         <module name="spring-cloud-hystrix-eureka-provider-3" />
         <module name="spring-cloud-hystrix-eureka-service" />
+        <module name="spring-cloud-producer" />
         <module name="spring-cloud-refresh-config-server" />
         <module name="spring-cloud-refresh-eureka-provider-1" />
         <module name="spring-cloud-refresh-eureka-provider-2" />
@@ -46,12 +52,15 @@
         <module name="spring-cloud-ribbon-eureka-provider-2" />
         <module name="spring-cloud-ribbon-eureka-provider-3" />
         <module name="spring-cloud-ribbon-eureka-service" />
+        <module name="spring-cloud-zuul" />
         <module name="spring-cloud-zuul-eureka-provider-1" />
         <module name="spring-cloud-zuul-eureka-provider-2" />
         <module name="spring-cloud-zuul-eureka-provider-3" />
         <module name="spring-cloud-zuul-eureka-service" />
         <module name="spring-cloud-zuul-filter" />
         <module name="spring-cloud-zuul-service" />
+        <module name="zipkin-server" />
+        <module name="zipkin-service" />
       </profile>
       <profile name="Annotation profile for spring-cloud-bus-config-server" enabled="true">
         <sourceOutputDir name="../spring-cloud-config-server/target/generated-sources/annotations" />
@@ -129,18 +138,25 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="account-service" target="1.8" />
+      <module name="customer-service" target="1.8" />
+      <module name="discovery-service" target="1.8" />
+      <module name="gateway-service" target="1.8" />
+      <module name="sample-spring-microservices" target="1.8" />
       <module name="spring-cloud-bus-config-server" target="1.8" />
       <module name="spring-cloud-bus-eureka-provider-1" target="1.8" />
       <module name="spring-cloud-bus-eureka-provider-2" target="1.8" />
       <module name="spring-cloud-bus-eureka-provider-3" target="1.8" />
       <module name="spring-cloud-bus-eureka-service" target="1.8" />
       <module name="spring-cloud-bus-feign-consumer" target="1.8" />
+      <module name="spring-cloud-config" target="1.8" />
       <module name="spring-cloud-config-client" target="1.8" />
       <module name="spring-cloud-config-server" target="1.8" />
       <module name="spring-cloud-config-server (1)" target="1.8" />
       <module name="spring-cloud-config-server (2)" target="1.8" />
       <module name="spring-cloud-config-server (3)" target="1.8" />
       <module name="spring-cloud-consul-client" target="1.8" />
+      <module name="spring-cloud-eureka" target="1.8" />
       <module name="spring-cloud-eureka-config-server" target="1.8" />
       <module name="spring-cloud-eureka-provider" target="1.8" />
       <module name="spring-cloud-eureka-provider-1" target="1.8" />
@@ -195,6 +211,7 @@
       <module name="spring-cloud-hystrix-eureka-provider-2" target="1.8" />
       <module name="spring-cloud-hystrix-eureka-provider-3" target="1.8" />
       <module name="spring-cloud-hystrix-eureka-service" target="1.8" />
+      <module name="spring-cloud-producer" target="1.8" />
       <module name="spring-cloud-refresh-config-server" target="1.8" />
       <module name="spring-cloud-refresh-eureka-provider-1" target="1.8" />
       <module name="spring-cloud-refresh-eureka-provider-2" target="1.8" />
@@ -208,12 +225,17 @@
       <module name="spring-cloud-ribbon-eureka-provider-2" target="1.8" />
       <module name="spring-cloud-ribbon-eureka-provider-3" target="1.8" />
       <module name="spring-cloud-ribbon-eureka-service" target="1.8" />
+      <module name="spring-cloud-sleuth-zipkin" target="1.8" />
+      <module name="spring-cloud-sleuth-zipkin-elk" target="1.8" />
+      <module name="spring-cloud-zuul" target="1.8" />
       <module name="spring-cloud-zuul-eureka-provider-1" target="1.8" />
       <module name="spring-cloud-zuul-eureka-provider-2" target="1.8" />
       <module name="spring-cloud-zuul-eureka-provider-3" target="1.8" />
       <module name="spring-cloud-zuul-eureka-service" target="1.8" />
       <module name="spring-cloud-zuul-filter" target="1.8" />
       <module name="spring-cloud-zuul-service" target="1.8" />
+      <module name="zipkin-server" target="1.8" />
+      <module name="zipkin-service" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

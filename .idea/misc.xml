@@ -81,6 +81,9 @@
         <option value="$PROJECT_DIR$/spring-cloud-config-eureka-refresh/spring-cloud-refresh-eureka-provider-3/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-config-eureka-refresh/spring-cloud-refresh-eureka-service/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-config-eureka-refresh/spring-cloud-refresh-feign-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-sleuth-zipkin/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-sleuth-zipkin-elk/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config/pom.xml" />
       </list>
     </option>
   </component>
