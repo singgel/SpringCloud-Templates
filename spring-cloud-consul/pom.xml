@@ -8,8 +8,7 @@
     <version>1.0.0.BUILD-SNAPSHOT</version>
 
     <modules>
-        <module>spring-cloud-eureka-provider</module>
-        <module>spring-cloud-eureka-service-center</module>
+        <module>spring-cloud-consul-client</module>
     </modules>
 
     <packaging>pom</packaging>
