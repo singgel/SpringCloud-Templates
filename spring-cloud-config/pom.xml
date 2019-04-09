@@ -13,7 +13,7 @@
     </modules>
 
     <packaging>pom</packaging>
-    <name>Spring cloud config</name>
+    <name>spring-cloud-config</name>
     <description>Demo project for Spring Cloud</description>
 
     <parent>
