@@ -53,6 +53,10 @@
 - [spring-cloud-config-bus-rabbitMQ]
 
   [Spring Cloud（十一）高可用的分布式配置中心 Spring Cloud Bus 消息总线集成（RabbitMQ）]
+  
+- [spring-cloud-sleuth]
+
+  [Spring Cloud（十二）分布式服务监控追踪]
 
 #### [CSDN的blog记录](https://blog.csdn.net/singgel/article/category/7574271)
 
