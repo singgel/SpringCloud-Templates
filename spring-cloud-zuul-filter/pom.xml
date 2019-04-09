@@ -16,8 +16,8 @@
     </modules>
 
     <packaging>pom</packaging>
-    <name>spring-cloud-ribbon</name>
-    <description>spring-cloud-ribbon project for Spring Cloud</description>
+    <name>spring-cloud-zuul-filter</name>
+    <description>spring-cloud-zuul-filter project for Spring Cloud</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
