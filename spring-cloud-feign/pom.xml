@@ -16,8 +16,8 @@
     </modules>
 
     <packaging>pom</packaging>
-    <name>spring-cloud-config-eureka-refresh</name>
-    <description>Demo project for Spring Cloud</description>
+    <name>spring-cloud-feign</name>
+    <description>spring-cloud-feign project for Spring Cloud</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
