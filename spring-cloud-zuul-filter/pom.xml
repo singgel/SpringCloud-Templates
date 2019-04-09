@@ -12,7 +12,7 @@
         <module>spring-cloud-filter-eureka-provider-2</module>
         <module>spring-cloud-filter-eureka-provider-3</module>
         <module>spring-cloud-filter-eureka-service</module>
-        <module>spring-cloud-filter-service</module>
+        <module>spring-cloud-zuul-filter</module>
     </modules>
 
     <packaging>pom</packaging>
