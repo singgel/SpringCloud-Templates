@@ -2,60 +2,124 @@
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/spring-cloud-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-bus-rabbitMQ" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-config-bus-rabbitMQ/spring-cloud-bus-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-bus-rabbitMQ/spring-cloud-bus-config-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-config-bus-rabbitMQ/spring-cloud-bus-eureka-provider-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-bus-rabbitMQ/spring-cloud-bus-eureka-provider-1/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-config-bus-rabbitMQ/spring-cloud-bus-eureka-provider-2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-bus-rabbitMQ/spring-cloud-bus-eureka-provider-2/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-config-bus-rabbitMQ/spring-cloud-bus-eureka-provider-3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-bus-rabbitMQ/spring-cloud-bus-eureka-provider-3/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-config-bus-rabbitMQ/spring-cloud-bus-eureka-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-bus-rabbitMQ/spring-cloud-bus-eureka-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-config-bus-rabbitMQ/spring-cloud-bus-feign-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-bus-rabbitMQ/spring-cloud-bus-feign-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-eureka-refresh" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-config-eureka-refresh/spring-cloud-refresh-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-eureka-refresh/spring-cloud-refresh-config-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-config-eureka-refresh/spring-cloud-refresh-eureka-provider-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-eureka-refresh/spring-cloud-refresh-eureka-provider-1/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-config-eureka-refresh/spring-cloud-refresh-eureka-provider-2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-eureka-refresh/spring-cloud-refresh-eureka-provider-2/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-config-eureka-refresh/spring-cloud-refresh-eureka-provider-3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-eureka-refresh/spring-cloud-refresh-eureka-provider-3/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-config-eureka-refresh/spring-cloud-refresh-eureka-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-eureka-refresh/spring-cloud-refresh-eureka-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-config-eureka-refresh/spring-cloud-refresh-feign-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-eureka-refresh/spring-cloud-refresh-feign-consumer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-config/spring-cloud-config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config/spring-cloud-config-client/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-config/spring-cloud-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config/spring-cloud-config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-consul" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-consul/spring-cloud-consul-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-consul/spring-cloud-consul-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-eureka" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-provider/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-service-center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-service-center/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-feign" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-eureka-provider-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-eureka-provider-1/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-eureka-provider-2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-eureka-provider-2/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-eureka-provider-3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-eureka-provider-3/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-eureka-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-eureka-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-feign-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-feign/spring-cloud-feign-feign-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-gateway/spring-cloud-gateway-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-gateway/spring-cloud-gateway-jwt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-hystrix-dashboard" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-hystrix-dashboard/spring-cloud-feign-consumer-hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-hystrix-dashboard/spring-cloud-feign-consumer-hystrix/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-hystrix-dashboard/spring-cloud-hystrix-eureka-provider-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-hystrix-dashboard/spring-cloud-hystrix-eureka-provider-1/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-hystrix-dashboard/spring-cloud-hystrix-eureka-provider-2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-hystrix-dashboard/spring-cloud-hystrix-eureka-provider-2/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-hystrix-dashboard/spring-cloud-hystrix-eureka-provider-3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-hystrix-dashboard/spring-cloud-hystrix-eureka-provider-3/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-hystrix-dashboard/spring-cloud-hystrix-eureka-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-hystrix-dashboard/spring-cloud-hystrix-eureka-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-hystrix-dashboard/spring-cloud-ribbon-consumer-hystrix" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-hystrix-dashboard/spring-cloud-ribbon-consumer-hystrix-dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-hystrix-dashboard/spring-cloud-ribbon-consumer-hystrix-dashboard/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-hystrix-dashboard/spring-cloud-ribbon-consumer-hystrix/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-ribbon" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-consumer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-eureka-provider-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-eureka-provider-1/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-eureka-provider-2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-eureka-provider-2/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-eureka-provider-3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-eureka-provider-3/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-eureka-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-ribbon/spring-cloud-ribbon-eureka-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-sleuth-zipkin" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-sleuth-zipkin-elk" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-sleuth-zipkin-elk/account-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-sleuth-zipkin-elk/account-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-sleuth-zipkin-elk/customer-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-sleuth-zipkin-elk/customer-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-sleuth-zipkin-elk/discovery-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-sleuth-zipkin-elk/discovery-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-sleuth-zipkin-elk/gateway-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-sleuth-zipkin-elk/gateway-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-sleuth-zipkin-elk/zipkin-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-sleuth-zipkin-elk/zipkin-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-sleuth-zipkin/spring-cloud-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-sleuth-zipkin/spring-cloud-eureka/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-sleuth-zipkin/spring-cloud-producer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-sleuth-zipkin/spring-cloud-producer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-sleuth-zipkin/spring-cloud-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-sleuth-zipkin/spring-cloud-zuul/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-sleuth-zipkin/zipkin-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-sleuth-zipkin/zipkin-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zuul-filter" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-zuul-filter/spring-cloud-filter-eureka-provider-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zuul-filter/spring-cloud-filter-eureka-provider-1/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-zuul-filter/spring-cloud-filter-eureka-provider-2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zuul-filter/spring-cloud-filter-eureka-provider-2/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-zuul-filter/spring-cloud-filter-eureka-provider-3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zuul-filter/spring-cloud-filter-eureka-provider-3/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-zuul-filter/spring-cloud-filter-eureka-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zuul-filter/spring-cloud-filter-eureka-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-zuul-filter/spring-cloud-zuul-filter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zuul-filter/spring-cloud-zuul-filter/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul-eureka-provider-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul-eureka-provider-1/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul-eureka-provider-2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul-eureka-provider-2/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul-eureka-provider-3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul-eureka-provider-3/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul-eureka-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul-eureka-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul-service/src/main/java" charset="UTF-8" />
   </component>
 </project>

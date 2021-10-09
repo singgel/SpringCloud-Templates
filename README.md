@@ -20,6 +20,7 @@
   [Spring Cloud（四） 服务提供者 Eureka + 服务消费者 Feign]
 
 
+
 - [spring-cloud-hystrix-dashboard]
 
   [Spring Cloud（五）断路器监控(Hystrix Dashboard)]
@@ -54,9 +55,15 @@
 
   [Spring Cloud（十一）高可用的分布式配置中心 Spring Cloud Bus 消息总线集成（RabbitMQ）]
   
+
 - [spring-cloud-sleuth]
 
   [Spring Cloud（十二）分布式服务监控追踪]
+
+
+- [spring-cloud-gatway]
+
+  [Spring Cloud（十三） 服务提供者 Eureka + 服务网关 gatway]
 
 #### [CSDN的blog记录](https://blog.csdn.net/singgel/article/category/7574271)
 

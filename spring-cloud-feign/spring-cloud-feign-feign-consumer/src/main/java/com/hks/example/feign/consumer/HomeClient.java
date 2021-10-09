@@ -12,6 +12,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 @FeignClient("eureka-provider")
 public interface  HomeClient {
 
-    @GetMapping("/")
+    @GetMapping("/api/v1/name")
     String consumer();
 }

@@ -1,0 +1,47 @@
+spring:
+  application:
+    name: sysgateway
+  cloud:
+    gateway:
+      globalcors:
+        cors-configurations:
+          '[/**]': # 匹配所有请求
+            allowedOrigins: "*" #跨域处理 允许所有的域
+            allowedMethods: # 支持的方法
+              - GET
+              - POST
+              - PUT
+              - DELETE
+      routes:
+        #需要操作的服务id
+        - id: goods
+          # lb是一个动态路由协议，后面的goods是要跳转的服务名称。
+          # 如果链接中带goods，则根据lb在eureka中查找goods服务的真正访问路径。
+          uri: lb://goods
+          # 这个指定了如果需要操作goods服务的话，具体访问的信息
+          predicates:
+            - Path=/goods/**
+          # 如果转发路由请求后，忽略的第一个/后面的值，例如：localhost:9101/goods/1，
+          # 转发后为：localhost:9001/1 (goods服务端口为9001)
+          filters:
+            - StripPrefix= 1
+
+          # 添加登录服务的id
+        - id: system
+          uri: lb://system
+          predicates:
+            - Path=/system/**
+          filters:
+            - StripPrefix= 1
+
+#服务端口
+server:
+  port: 9001
+
+#注册到服务注册中心
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:8761/eureka
+  instance:
+    prefer-ip-address: true

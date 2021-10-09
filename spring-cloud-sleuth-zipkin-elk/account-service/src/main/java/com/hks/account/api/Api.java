@@ -4,8 +4,10 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
+import com.hks.account.gateway.MybatisClient;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -18,6 +20,9 @@ public class Api {
 	private List<Account> accounts;
 	
 	protected static Logger logger = LoggerFactory.getLogger(Api.class.getName());
+
+	@Autowired
+	MybatisClient mybatisClient;
 	
 	public Api() {
 		accounts = new ArrayList<>();
@@ -36,6 +41,14 @@ public class Api {
 		Account a = accounts.stream().filter(it -> it.getNumber().equals(number)).findFirst().get();
 		logger.info(String.format("Account.findByNumber: %s", a));
 		return a;
+	}
+
+	@RequestMapping("/accounts/database")
+	public String database() {
+		logger.info(String.format("Account.database()"));
+		String database = mybatisClient.consumer();
+		logger.info(String.format("Account.database: %s", database));
+		return database;
 	}
 	
 	@RequestMapping("/accounts/customer/{customer}")

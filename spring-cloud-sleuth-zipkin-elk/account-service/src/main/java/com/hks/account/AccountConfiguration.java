@@ -6,7 +6,7 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-@ComponentScan("pl.piomin.microservices.account")
+@ComponentScan("com.hks.account")
 public class AccountConfiguration {
 
 	@Bean

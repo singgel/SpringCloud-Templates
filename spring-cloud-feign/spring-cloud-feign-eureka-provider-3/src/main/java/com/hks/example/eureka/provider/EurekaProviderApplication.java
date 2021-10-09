@@ -15,7 +15,7 @@ public class EurekaProviderApplication {
     @Value("${server.port}")
     String port;
 
-    @RequestMapping("/")
+    @RequestMapping("/api/v1/name")
     public String home() {
         return "Hello world ,port:" + port;
     }
