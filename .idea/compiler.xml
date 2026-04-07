@@ -24,6 +24,7 @@
         <module name="spring-cloud-producer" />
         <module name="spring-cloud-bus-feign-consumer" />
         <module name="spring-cloud-eureka-provider-1 (1)" />
+        <module name="spring-cloud-eureka (2) (com.neo)" />
         <module name="spring-cloud-eureka-service-center" />
         <module name="spring-cloud-hystrix-eureka-provider-1" />
         <module name="spring-cloud-hystrix-eureka-provider-2" />
@@ -58,12 +59,14 @@
         <module name="spring-cloud-zuul-filter (1) (com.hks.example)" />
         <module name="spring-cloud-feign-consumer (1)" />
         <module name="zipkin-service" />
+        <module name="spring-cloud-zuul-filter (2) (com.hks.example)" />
         <module name="spring-cloud-bus-config-server" />
         <module name="spring-cloud-gateway-jwt" />
         <module name="spring-cloud-config-server (1)" />
         <module name="spring-cloud-eureka-provider" />
         <module name="spring-cloud-ribbon-consumer-hystrix-dashboard" />
         <module name="spring-cloud-feign-eureka-service" />
+        <module name="spring-cloud-zuul (1) (com.neo)" />
         <module name="spring-cloud-refresh-eureka-provider-1" />
         <module name="spring-cloud-ribbon-consumer" />
         <module name="spring-cloud-eureka-provider-3 (1)" />
@@ -110,74 +113,11 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
-      <module name="account-service" target="1.8" />
-      <module name="customer-service" target="1.8" />
-      <module name="discovery-service" target="1.8" />
-      <module name="gateway-service" target="1.8" />
-      <module name="spring-cloud-bus-config-server" target="1.8" />
-      <module name="spring-cloud-bus-eureka-provider-1" target="1.8" />
-      <module name="spring-cloud-bus-eureka-provider-2" target="1.8" />
-      <module name="spring-cloud-bus-eureka-provider-3" target="1.8" />
-      <module name="spring-cloud-bus-eureka-service" target="1.8" />
-      <module name="spring-cloud-bus-feign-consumer" target="1.8" />
-      <module name="spring-cloud-config" target="1.8" />
-      <module name="spring-cloud-config-bus-rabbitMQ" target="1.8" />
-      <module name="spring-cloud-config-client" target="1.8" />
-      <module name="spring-cloud-config-eureka-refresh" target="1.8" />
-      <module name="spring-cloud-config-server" target="1.8" />
-      <module name="spring-cloud-consul" target="1.8" />
-      <module name="spring-cloud-consul-client" target="1.8" />
       <module name="spring-cloud-eureka" target="1.8" />
-      <module name="spring-cloud-eureka (1) (com.hks)" target="1.8" />
-      <module name="spring-cloud-eureka-provider" target="1.8" />
-      <module name="spring-cloud-eureka-service-center" target="1.8" />
-      <module name="spring-cloud-feign" target="1.8" />
-      <module name="spring-cloud-feign-consumer-hystrix" target="1.8" />
-      <module name="spring-cloud-feign-eureka-provider-1" target="1.8" />
-      <module name="spring-cloud-feign-eureka-provider-2" target="1.8" />
-      <module name="spring-cloud-feign-eureka-provider-3" target="1.8" />
-      <module name="spring-cloud-feign-eureka-service" target="1.8" />
-      <module name="spring-cloud-feign-feign-consumer" target="1.8" />
-      <module name="spring-cloud-filter-eureka-provider-1" target="1.8" />
-      <module name="spring-cloud-filter-eureka-provider-2" target="1.8" />
-      <module name="spring-cloud-filter-eureka-provider-3" target="1.8" />
-      <module name="spring-cloud-filter-eureka-service" target="1.8" />
-      <module name="spring-cloud-gateway" target="1.8" />
-      <module name="spring-cloud-gateway-api" target="8" />
-      <module name="spring-cloud-gateway-jwt" target="8" />
-      <module name="spring-cloud-hystrix-dashboard" target="1.8" />
-      <module name="spring-cloud-hystrix-eureka-provider-1" target="1.8" />
-      <module name="spring-cloud-hystrix-eureka-provider-2" target="1.8" />
-      <module name="spring-cloud-hystrix-eureka-provider-3" target="1.8" />
-      <module name="spring-cloud-hystrix-eureka-service" target="1.8" />
-      <module name="spring-cloud-producer" target="1.8" />
-      <module name="spring-cloud-refresh-config-server" target="1.8" />
-      <module name="spring-cloud-refresh-eureka-provider-1" target="1.8" />
-      <module name="spring-cloud-refresh-eureka-provider-2" target="1.8" />
-      <module name="spring-cloud-refresh-eureka-provider-3" target="1.8" />
-      <module name="spring-cloud-refresh-eureka-service" target="1.8" />
-      <module name="spring-cloud-refresh-feign-consumer" target="1.8" />
-      <module name="spring-cloud-ribbon" target="1.8" />
-      <module name="spring-cloud-ribbon-consumer" target="1.8" />
-      <module name="spring-cloud-ribbon-consumer-hystrix" target="1.8" />
-      <module name="spring-cloud-ribbon-consumer-hystrix-dashboard" target="1.8" />
-      <module name="spring-cloud-ribbon-eureka-provider-1" target="1.8" />
-      <module name="spring-cloud-ribbon-eureka-provider-2" target="1.8" />
-      <module name="spring-cloud-ribbon-eureka-provider-3" target="1.8" />
-      <module name="spring-cloud-ribbon-eureka-service" target="1.8" />
-      <module name="spring-cloud-sleuth-zipkin" target="1.8" />
-      <module name="spring-cloud-sleuth-zipkin-elk" target="1.8" />
       <module name="spring-cloud-zuul" target="1.8" />
       <module name="spring-cloud-zuul (1) (com.hks)" target="1.8" />
-      <module name="spring-cloud-zuul-eureka-provider-1" target="1.8" />
-      <module name="spring-cloud-zuul-eureka-provider-2" target="1.8" />
-      <module name="spring-cloud-zuul-eureka-provider-3" target="1.8" />
-      <module name="spring-cloud-zuul-eureka-service" target="1.8" />
       <module name="spring-cloud-zuul-filter" target="1.8" />
       <module name="spring-cloud-zuul-filter (1) (com.hks.example)" target="1.8" />
-      <module name="spring-cloud-zuul-service" target="1.8" />
-      <module name="zipkin-server" target="1.8" />
-      <module name="zipkin-service" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
